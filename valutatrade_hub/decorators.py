@@ -4,7 +4,7 @@ import functools
 import inspect
 from typing import Any, Callable
 
-from ..infra.logging_config import format_action_log, get_action_logger
+from .logging_config import format_action_log, get_action_logger
 
 
 def log_action(action_type: str, verbose: bool = False):
