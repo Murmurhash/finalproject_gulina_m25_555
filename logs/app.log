@@ -1,7 +1,0 @@
-2026-01-28T16:39:21 - valutatrade.actions - INFO - REGISTER user='demo' result=OK
-2026-01-28T16:39:44 - valutatrade.actions - INFO - LOGIN user='demo' result=OK
-2026-01-28T16:40:05 - valutatrade.actions - INFO - BUY user='demo' currency='USD' amount=1000.0000 rate=1.00 base='USD' result=OK
-2026-01-28T16:40:24 - valutatrade.actions - INFO - BUY user='demo' currency='EUR' amount=500.0000 rate=1.08 base='USD' result=OK
-2026-01-28T16:40:46 - valutatrade.actions - INFO - SELL user='demo' currency='EUR' amount=200.0000 rate=1.08 base='USD' result=OK balance_before='500.0000' balance_after='300.0000'
-2026-01-28T16:41:36 - valutatrade.actions - ERROR - BUY user='demo' currency='ABC' amount=100.0000 result=ERROR error_type='CurrencyNotFoundError' error_message='Валюта не найдена →
-Неизвестная валюта \'ABC\''
