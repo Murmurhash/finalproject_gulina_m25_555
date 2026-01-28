@@ -6,15 +6,11 @@ ValutaTrade Hub — консольное приложение для отсле�
 
 Демонстрация полного цикла `register` → `login` → `buy/sell` → `show-portfolio` → `get-rate`
 
-```bash
-asciinema play ./demos/main-demo.cast
-```
+[![asciicast](https://asciinema.org/a/MkQKZX9cUvyUyhhw.svg)](https://asciinema.org/a/MkQKZX9cUvyUyhhw)
 
 Демонстрация `update-rates/show-rates`
 
-```bash
-asciinema play ./demos/update-rates-demo.cast
-```
+[![asciicast](https://asciinema.org/a/JJuw2eE8A7wJ05SL.svg)](https://asciinema.org/a/JJuw2eE8A7wJ05SL)
 
 ## Структура проекта
 
