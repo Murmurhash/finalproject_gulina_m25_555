@@ -1,0 +1,25 @@
+{
+  "pairs": {
+    "EUR_USD": {
+      "rate": 1.0786,
+      "updated_at": "2026-01-28T16:32:05.180249",
+      "source": "SeedData"
+    },
+    "BTC_USD": {
+      "rate": 59337.21,
+      "updated_at": "2026-01-28T16:32:05.180249",
+      "source": "SeedData"
+    },
+    "RUB_USD": {
+      "rate": 0.01016,
+      "updated_at": "2026-01-28T16:32:05.180249",
+      "source": "SeedData"
+    },
+    "ETH_USD": {
+      "rate": 3720.0,
+      "updated_at": "2026-01-28T16:32:05.180249",
+      "source": "SeedData"
+    }
+  },
+  "last_refresh": "2026-01-28T16:32:05.180249"
+}
